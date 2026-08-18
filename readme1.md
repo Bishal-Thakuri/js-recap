@@ -120,7 +120,7 @@ console.log(total);
 ========Output=========
 126500
 
-## 🔥 Challenge 5 — Real React-style thinking
+## Challenge 5 
 
 const users = [
 { name: "Ram", age: 17, active: true },
@@ -139,7 +139,7 @@ console.log(result);
 ========Output=========
 ["Kedar"]
 
-## 💀 Challenge 6 — Interview level
+## Challenge 6 
 
 const numbers = [1, 2, 3, 4, 5];
 
@@ -197,7 +197,7 @@ console.log(result);
 
 160
 
-## Challenge 4 🔥
+## Challenge 4 
 
 const products = [
 { name: "Laptop", price: 75000 },
@@ -215,7 +215,7 @@ console.log(result);
 
 125000
 
-## Challenge 5 🔥🔥
+## Challenge 5 
 
 const students = [
 { name: "Ram", marks: 45 },
@@ -232,7 +232,6 @@ console.log(result);
 
 ["Hari","kedar","Sita"]
 
-## Interview Questions
 
 ## 1.What is an array of objects?
 
